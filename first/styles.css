@@ -1,0 +1,83 @@
+body {
+	width: 600px;
+	height: 550px;
+	margin: 0 auto;
+}
+
+.topBar {
+	height: 15%;
+	width: 100%;
+	margin-top: 15px; 
+}
+
+.topBox {
+	height: 100%;
+	width: 31%;
+	margin-right: 2%;
+	float: left;
+}
+
+.red {
+	background-color: #e51d1d;
+}
+
+.blue {
+	background-color: #5795bf;
+}
+
+.gray {
+	background-color: #565656;
+} 	
+
+.content {
+	height: 35%;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.content p {
+	margin: 20px 2% 0 0;
+}
+
+.middleBar {
+	height: 35%;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.leftMiddleBox {
+	height: 100%;
+	width: 31%;
+	float: left;
+}
+
+.rightMiddleBox {
+	height: 100%;
+	width: 67%;
+	float: left;
+}
+
+.bottomBar {
+	height: 15%;
+	width: 100%;
+	margin-top: 15px;
+}
+
+.bottomBox1 {
+	height: 100%;
+	width: 65%;
+	float: left;
+}
+
+.bottomBox2 {
+	height: 100%;
+	width: 5%;
+	float: left;
+}
+
+.bottomBox3 {
+	height: 100%;
+	width: 23%;
+	float: left;
+}
+
